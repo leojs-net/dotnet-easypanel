@@ -1,0 +1,6 @@
+@teste_api_contabo_HostAddress = http://localhost:5002
+
+GET {{teste_api_contabo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

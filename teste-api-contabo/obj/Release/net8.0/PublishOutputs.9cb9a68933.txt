@@ -1,0 +1,12 @@
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\teste-api-contabo.exe
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\teste-api-contabo.dll
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\teste-api-contabo.deps.json
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\teste-api-contabo.runtimeconfig.json
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\teste-api-contabo.pdb
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

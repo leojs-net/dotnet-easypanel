@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Leomir\Desktop\teste-api-contabo\teste-api-contabo\teste-api-contabo\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-08-08T23:56:35.7246077Z;True|2024-08-08T20:24:42.0427123-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include=".dockerignore">
+      <publishTime>08/08/2024 20:22:58</publishTime>
+    </File>
+    <File Include="Dockerfile">
+      <publishTime>08/08/2024 20:22:58</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

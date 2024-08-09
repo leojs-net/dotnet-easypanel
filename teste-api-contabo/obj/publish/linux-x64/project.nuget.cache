@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZ1N0N8HrYc7MV8vDQNNYHykKspY8MYuZErl8DQC6GPArJcz9AWOBdXktlSfwU6764o5NomAkOMMm2pz29RuAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Leomir\\Desktop\\teste-api-contabo\\teste-api-contabo\\teste-api-contabo\\teste-api-contabo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Leomir\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0\\microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
+    "C:\\Users\\Leomir\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Leomir\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Leomir\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\Leomir\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Leomir\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Leomir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Leomir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\Leomir\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\8.0.0\\microsoft.netcore.app.host.linux-x64.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
